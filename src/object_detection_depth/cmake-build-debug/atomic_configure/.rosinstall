@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/husky/ws/perception_husky_ws/src/object_detection_depth/cmake-build-debug/devel/setup.sh
